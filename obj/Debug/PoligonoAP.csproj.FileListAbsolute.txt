@@ -1,0 +1,7 @@
+C:\Users\ap550\source\repos\PoligonoAP\bin\Debug\PoligonoAP.exe.config
+C:\Users\ap550\source\repos\PoligonoAP\bin\Debug\PoligonoAP.exe
+C:\Users\ap550\source\repos\PoligonoAP\bin\Debug\PoligonoAP.pdb
+C:\Users\ap550\source\repos\PoligonoAP\obj\Debug\PoligonoAP.csproj.AssemblyReference.cache
+C:\Users\ap550\source\repos\PoligonoAP\obj\Debug\PoligonoAP.csproj.CoreCompileInputs.cache
+C:\Users\ap550\source\repos\PoligonoAP\obj\Debug\PoligonoAP.exe
+C:\Users\ap550\source\repos\PoligonoAP\obj\Debug\PoligonoAP.pdb
